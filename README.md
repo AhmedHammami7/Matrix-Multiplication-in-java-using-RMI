@@ -1,0 +1,2 @@
+# Matrix-Multiplication-in-java-using-RMI
+This project is to develop Java code for a client and a server that will use the RMI in order to be able to communicate with each other. The client will enter two matrices to multiply. It will then ask the server to create RMI objects (at least 4 objects) each of which will support part of the calculation of the product matrix within the server and send the result back to the client. The latter should consolidate the retrieved data and display it at the end of the execution.
